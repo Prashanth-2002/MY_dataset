@@ -1,28 +1,12 @@
 name,company,year,Price,kms_driven,fuel_type
 Coding,C++,2007,"80","4500",online
-Coding,Java,2007,"70","4500",online
-Coding,Python,2007,"100","4500",online
-Coding,C++,2011,"90","4500",online
-Coding,Java,2011,"80","4500",online
-Coding,Python,2011,"110","4500",online
-Coding,C++,2011,"120","5000",online
-Coding,Java,2011,"130","5000",online
-Coding,Python,2011,"140","5000",online
-Coding,C++,2015,"130","4500",online
-Coding,Java,2015,"140","4500",online
-Coding,Python,2015,"150","4500",online
-Coding,C++,2019,"160","4500",online
-Coding,Java,2019,"170","4500",online
-Coding,Python,2019,"180","4500",online
-Coding,C++,2021,"200","5000",online
-Coding,Java,2021,"250","5000",online
-Coding,Python,2021,"300","5000",online
-Coding,C++,2007,"190","6000",online
-Coding,Java,2007,"200","6000",online
-Coding,Python,2007,"210","6000",online
-Coding,C++,2011,"200","4500",online
-Coding,Java,2011,"210","4500",online
-Coding,Python,2011,"220"4500",online
+Coding,C++,2008,"90","4600",online
+Coding,C++,2009,"100","4700",online
+Coding,C++,2007,"50","4500",offline
+Coding,C++,2008,"60","4600",offline
+Coding,C++,2009,"70","4700",offline
+
+
 
 
 
