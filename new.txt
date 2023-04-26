@@ -2,7 +2,10 @@ name,company,year,Price,kms_driven,fuel_type
 Coding,C++,2007,"80","10",online
 Coding,C++,2008,"90","11",online
 Coding,C++,2009,"100","12",online
-Coding,C++,2007,"50","10",offline
+Coding,C++,2010,"110","10",offline
+Coding,C++,2011,"120","10",online
+Coding,C++,2012,"130","11",online
+Coding,C++,2009,"100","12",online
 Coding,C++,2008,"60","11",offline
 Coding,C++,2009,"70","12",offline
 Coding,Java,2007,"150","10",online
