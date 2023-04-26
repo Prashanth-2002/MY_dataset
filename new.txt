@@ -1,4 +1,4 @@
-#event_name,type,year,price,minutes,mode
+
 name,company,year,Price,kms_driven,fuel_type
 Coding,C++,2007,"80","10",online
 Coding,C++,2008,"90","11",online
