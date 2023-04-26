@@ -1,4 +1,4 @@
-name,company,year,Price,minutes,mode
+name,company,year,Price,kms_driven,fuel_type
 Coding,C++,2007,"80","4500 minutes",online
 Coding,Java,2007,"70","4500 minutes",online
 Coding,Python,2007,"100","4500 minutes",online
