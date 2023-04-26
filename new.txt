@@ -1,23 +1,23 @@
 #event_name,type,year,price,minutes,mode
 name,company,year,Price,kms_driven,fuel_type
-Coding,C++,2007,"80","4500",online
-Coding,C++,2008,"90","4600",online
-Coding,C++,2009,"100","4700",online
-Coding,C++,2007,"50","4500",offline
-Coding,C++,2008,"60","4600",offline
-Coding,C++,2009,"70","4700",offline
-Coding,Java,2007,"150","4500",online
-Coding,Java,2008,"200","4600",online
-Coding,Java,2009,"250","4700",online
-Coding,Java,2007,"120","4500",offline
-Coding,Java,2008,"125","4600",offline
-Coding,Java,2009,"130","4700",offline
-Coding,Python,2007,"250","4500",online
-Coding,Python,2008,"300","4600",online
-Coding,Python,2009,"350","4700",online
-Coding,Python,2007,"120","4500",offline
-Coding,Python,2008,"125","4600",offline
-Coding,Python,2009,"130","4700",offline
+Coding,C++,2007,"80","10",online
+Coding,C++,2008,"90","11",online
+Coding,C++,2009,"100","12",online
+Coding,C++,2007,"50","10",offline
+Coding,C++,2008,"60","11",offline
+Coding,C++,2009,"70","12",offline
+Coding,Java,2007,"150","10",online
+Coding,Java,2008,"200","11",online
+Coding,Java,2009,"250","12",online
+Coding,Java,2007,"120","10",offline
+Coding,Java,2008,"125","11",offline
+Coding,Java,2009,"130","12",offline
+Coding,Python,2007,"250","10",online
+Coding,Python,2008,"300","11",online
+Coding,Python,2009,"350","12",online
+Coding,Python,2007,"120","10",offline
+Coding,Python,2008,"125","11",offline
+Coding,Python,2009,"130","12",offline
 
 
 
