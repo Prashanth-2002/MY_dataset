@@ -2,22 +2,22 @@ name,company,year,Price,kms_driven,fuel_type
 Coding,C++,2007,"80","4500",online
 Coding,Java,2007,"70","4500",online
 Coding,Python,2007,"100","4500",online
-Coding,C++,2011,"80","4500",online
-Coding,Java,2011,"70","4500",online
-Coding,Python,2011,"120","4500",online
-Coding,C++,2011,"100","5000",online
-Coding,Java,2011,"120","5000",online
-Coding,Python,2011,"150","5000",online
-Coding,C++,2015,"70","4500",online
-Coding,Java,2015,"70","4500",online
-Coding,Python,2015,"100","4500",online
-Coding,C++,2019,"80","4500",online
-Coding,Java,2019,"70","4500",online
-Coding,Python,2019,"120","4500",online
-Coding,C++,2021,"100","5000",online
-Coding,Java,2021,"120","5000",online
-Coding,Python,2021,"150","5000",online
-Coding,C++,2021,"70","4500",online
+Coding,C++,2011,"90","4500",online
+Coding,Java,2011,"80","4500",online
+Coding,Python,2011,"110","4500",online
+Coding,C++,2011,"120","5000",online
+Coding,Java,2011,"130","5000",online
+Coding,Python,2011,"140","5000",online
+Coding,C++,2015,"130","4500",online
+Coding,Java,2015,"140","4500",online
+Coding,Python,2015,"150","4500",online
+Coding,C++,2019,"160","4500",online
+Coding,Java,2019,"170","4500",online
+Coding,Python,2019,"180","4500",online
+Coding,C++,2021,"200","5000",online
+Coding,Java,2021,"250","5000",online
+Coding,Python,2021,"300","5000",online
+
 
 
 
