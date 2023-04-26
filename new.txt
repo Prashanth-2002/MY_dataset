@@ -1,14 +1,14 @@
 name,company,year,Price,kms_driven,fuel_type
-Coding,C++,2007,"80","4500 minutes",online
-Coding,Java,2007,"70","4500 minutes",online
-Coding,Python,2007,"100","4500 minutes",online
-Coding,C++,2011,"80","4500 minutes",online
-Coding,Java,2011,"70","4500 minutes",online
-Coding,Python,2011,"120","4500 minutes",online
-Coding,C++,2011,"100","5000 minutes",online
-Coding,Java,2011,"120","5000 minutes",online
-Coding,Python,2011,"150","5000 minutes",online
-Coding,C++,2007,"70","4500 minutes",online
+Coding,C++,2007,"80","4500minutes",online
+Coding,Java,2007,"70","4500minutes",online
+Coding,Python,2007,"100","4500minutes",online
+Coding,C++,2011,"80","4500minutes",online
+Coding,Java,2011,"70","4500minutes",online
+Coding,Python,2011,"120","4500minutes",online
+Coding,C++,2011,"100","5000minutes",online
+Coding,Java,2011,"120","5000minutes",online
+Coding,Python,2011,"150","5000minutes",online
+Coding,C++,2007,"70","4500minutes",online
 
 
 
