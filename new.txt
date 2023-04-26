@@ -17,6 +17,13 @@ Coding,Python,2019,"180","4500",online
 Coding,C++,2021,"200","5000",online
 Coding,Java,2021,"250","5000",online
 Coding,Python,2021,"300","5000",online
+Coding,C++,2007,"190","6000",online
+Coding,Java,2007,"200","6000",online
+Coding,Python,2007,"210","6000",online
+Coding,C++,2011,"200","4500",online
+Coding,Java,2011,"210","4500",online
+Coding,Python,2011,"220"4500",online
+
 
 
 
