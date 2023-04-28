@@ -1,4 +1,4 @@
-Event_Category,Event_Name,Event_Cost,Date,No_of_days ,EventAteeendees,Location
+Category,Name,Cost,Date,days,Attendance,Location
 Codefest,C++,50,28/04/2023,2,11,MITSOE
 Codefest,Coding in Java,55,28/04/2023,2,5,MIT ID
 Codefest,Coding in python,60,28/04/2023,2,8,MIT ISBJ
