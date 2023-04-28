@@ -1,28 +1,19 @@
-Event_name,Type,year,Price,No_of_hours,Mode
-Coding,C++,2007,"80","10",online
-Coding,C++,2008,"90","11",online
-Coding,C++,2009,"100","12",online
-Coding,C++,2010,"110","10",offline
-Coding,C++,2011,"120","10",online
-Coding,C++,2012,"130","11",online
-Coding,C++,2009,"100","12",online
-Coding,C++,2008,"60","11",offline
-Coding,C++,2009,"70","12",offline
-Coding,Java,2007,"150","10",online
-Coding,Java,2008,"200","11",online
-Coding,Java,2009,"250","12",online
-Coding,Java,2007,"120","10",offline
-Coding,Java,2008,"125","11",offline
-Coding,Java,2009,"130","12",offline
-Coding,Java,2010,"260","10",online
-Coding,Java,2011,"270","11",online
-Coding,Java,2012,"280","12",online
-Coding,Python,2007,"250","10",online
-Coding,Python,2008,"300","11",online
-Coding,Python,2009,"350","12",online
-Coding,Python,2007,"120","10",offline
-Coding,Python,2008,"125","11",offline
-Coding,Python,2009,"130","12",offline
+Event Category,Event Name,Event Cost,Date,No of days ,EventAteeendees,Location
+Codefest,C++,50,28/04/2023,2,11,MITSOE
+Codefest,Coding in Java,55,28/04/2023,2,5,MIT ID
+Codefest,Coding in python,60,28/04/2023,2,8,MIT ISBJ
+Codefest,Coding in Java,55,28/04/2023,3,7,MITSOE
+Codefest,Coding in Java,70,28/04/2023,1,8,MIT ID
+Codefest,Coding in python,80,28/04/2023,1,11,MITSOE
+Codefest,Coding in Java,55,28/04/2023,2,11,MITSOE
+Gamehunt,Fifa,90,28/04/2023,2,20,MITSOE
+Gamehunt,Fifa,100,28/04/2023,1,19,MITSOE
+Gamehunt,Fifa,100,28/04/2023,1,11,MIT ID
+Gamehunt,Capture the flag,200,28/04/2023,1,11,MITSOE
+Gamehunt,Capture the flag,150,28/04/2023,2,10,MIT ID
+Gamehunt,Capture the flag,150,28/04/2023,2,5,MITSOE
+UI design,,55,28/04/2023,2,11,MITSOE
+UI design,UI test,100,28/04/2023,2,10,MITSOE
 
 
 
