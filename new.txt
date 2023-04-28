@@ -1,21 +1,53 @@
-Category,Name,Cost,Date,days,Attendance,Location
-Codefest,C++,50,2008,2,10,MITSOE
-Codefest,Coding in Java,55,2009,2,12,MIT ID
-Codefest,Coding in python,60,2010,2,15,MIT ISBJ
-Codefest,Coding in Java,55,2010,3,12,MITSOE
-Codefest,Coding in Java,70,2011,1,18,MIT ID
-Codefest,Coding in python,80,2012,1,25,MITSOE
-Codefest,Coding in Java,55,2013,2,12,MITSOE
-Gamehunt,Fifa,90,2014,2,30,MITSOE
-Gamehunt,Fifa,100,2015,1,35,MITSOE
-Gamehunt,Fifa,100,2016,1,35,MIT ID
-Gamehunt,Capture the flag,200,2017,1,40,MITSOE
-Gamehunt,Capture the flag,150,2018,2,30,MIT ID
-Gamehunt,Capture the flag,150,2019,2,30,MITSOE
-UI design,,55,2020,2,12,MITSOE
-UI design,UI test,100,2021,2,35,MITSOE
-
-
+Event_Category,Event_Name,year,Event_Cost,Eventattendee,Location
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,Java,2008,	55,	20,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
+Codefest,C++,2008,	50,	15,	MITSOE
 
 
 
