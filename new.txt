@@ -1,19 +1,19 @@
 Category,Name,Cost,Date,days,Attendance,Location
-Codefest,C++,50,28/04/2023,2,11,MITSOE
-Codefest,Coding in Java,55,28/04/2023,2,5,MIT ID
-Codefest,Coding in python,60,28/04/2023,2,8,MIT ISBJ
-Codefest,Coding in Java,55,28/04/2023,3,7,MITSOE
-Codefest,Coding in Java,70,28/04/2023,1,8,MIT ID
-Codefest,Coding in python,80,28/04/2023,1,11,MITSOE
-Codefest,Coding in Java,55,28/04/2023,2,11,MITSOE
-Gamehunt,Fifa,90,28/04/2023,2,20,MITSOE
-Gamehunt,Fifa,100,28/04/2023,1,19,MITSOE
-Gamehunt,Fifa,100,28/04/2023,1,11,MIT ID
-Gamehunt,Capture the flag,200,28/04/2023,1,11,MITSOE
-Gamehunt,Capture the flag,150,28/04/2023,2,10,MIT ID
-Gamehunt,Capture the flag,150,28/04/2023,2,5,MITSOE
-UI design,,55,28/04/2023,2,11,MITSOE
-UI design,UI test,100,28/04/2023,2,10,MITSOE
+Codefest,C++,50,28/04/2023,2,10,MITSOE
+Codefest,Coding in Java,55,28/04/2023,2,12,MIT ID
+Codefest,Coding in python,60,28/04/2023,2,15,MIT ISBJ
+Codefest,Coding in Java,55,28/04/2023,3,12,MITSOE
+Codefest,Coding in Java,70,28/04/2023,1,18,MIT ID
+Codefest,Coding in python,80,28/04/2023,1,25,MITSOE
+Codefest,Coding in Java,55,28/04/2023,2,12,MITSOE
+Gamehunt,Fifa,90,28/04/2023,2,30,MITSOE
+Gamehunt,Fifa,100,28/04/2023,1,35,MITSOE
+Gamehunt,Fifa,100,28/04/2023,1,35,MIT ID
+Gamehunt,Capture the flag,200,28/04/2023,1,40,MITSOE
+Gamehunt,Capture the flag,150,28/04/2023,2,30,MIT ID
+Gamehunt,Capture the flag,150,28/04/2023,2,30,MITSOE
+UI design,,55,28/04/2023,2,12,MITSOE
+UI design,UI test,100,28/04/2023,2,35,MITSOE
 
 
 
